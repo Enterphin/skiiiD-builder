@@ -1,2 +1,2 @@
-# skiiiD-arduino-builder
-arduino-builder for skiiiD
+# skiiiD-builder
+builder for skiiiD
